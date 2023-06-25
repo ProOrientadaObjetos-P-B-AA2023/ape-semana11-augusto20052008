@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a459c202-7d4b-4d85-a720-a1b3158f6fdd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/RestauranteMenu/src/paquete1/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestauranteMenu/src/paquete1/Interfaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestauranteMenu/src/paquete2/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestauranteMenu/src/paquete2/MenuCarta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestauranteMenu/src/paquete2/MenuDia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestauranteMenu/src/paquete2/MenuEconomico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestauranteMenu/src/paquete2/MenuNinos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Taller10/src/clasesMenu/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Taller10/src/clasesMenu/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller10/src/paquete01/Ejecutor01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller10/src/paquete01/Ejecutor01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taller10/src/paquete01/Ejecutor02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller10/src/paquete01/Ejecutor02.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RiV3baUjtrTab31RmLv6mco7ue" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Valentino/Desktop/2 Ciclo UTPL/Poo/2doBimestre/Sm3Polimorfismo/ape-semana11-augusto20052008"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a459c202-7d4b-4d85-a720-a1b3158f6fdd" name="Changes" comment="" />
+      <created>1687732690353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687732690353</updated>
+    </task>
+    <servers />
+  </component>
+</project>
