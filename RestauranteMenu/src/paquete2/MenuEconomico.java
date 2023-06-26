@@ -12,4 +12,11 @@ public class MenuEconomico extends Menu {
         this.valorMenu = this.valorInicial +
                 (this.valorInicial * (this.porcentajeDescuento/100));
     }
+
+    @Override
+    public String toString() {
+        return "MenuEconomico{" +
+                "porcentajeDescuento=" + porcentajeDescuento +
+                "} " + super.toString();
+    }
 }

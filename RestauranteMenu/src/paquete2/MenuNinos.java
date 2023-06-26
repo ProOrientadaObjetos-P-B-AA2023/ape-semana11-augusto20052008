@@ -16,4 +16,11 @@ public class MenuNinos extends Menu {
         this.valorMenu = this.valorHelado + this.valorPastel + this.valorInicial;
     }
 
+    @Override
+    public String toString() {
+        return "MenuNinos{" +
+                "valorHelado=" + valorHelado +
+                ", valorPastel=" + valorPastel +
+                "} " + super.toString();
+    }
 }

@@ -42,6 +42,7 @@ public class Cuenta {
 
     public void agregarMenu(Menu menu) {
         menus.add(menu);
+        menu.calcularValorMenu();
         subtotal += menu.getValorMenu();
         calcularTotal();
     }

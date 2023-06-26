@@ -16,4 +16,11 @@ public class MenuDia extends Menu {
         this.valorMenu = this.valorPostre + this.valorBebida + this.valorInicial;
     }
 
+    @Override
+    public String toString() {
+        return "MenuDia{" +
+                "valorPostre=" + valorPostre +
+                ", valorBebida=" + valorBebida +
+                "} " + super.toString();
+    }
 }

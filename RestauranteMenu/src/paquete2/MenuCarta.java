@@ -21,4 +21,13 @@ public class MenuCarta extends Menu {
                 + this.valorBebida + this.valorGuarnicion
                 + (this.valorInicial * (this.porcentajeAdicional/100));
     }
+
+    @Override
+    public String toString() {
+        return "MenuCarta{" +
+                "valorGuarnicion=" + valorGuarnicion +
+                ", valorBebida=" + valorBebida +
+                ", porcentajeAdicional=" + porcentajeAdicional +
+                "} " + super.toString();
+    }
 }
